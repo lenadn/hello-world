@@ -1,2 +1,2 @@
 # hello-world
-tutorial
+studying branches and commitments in github
